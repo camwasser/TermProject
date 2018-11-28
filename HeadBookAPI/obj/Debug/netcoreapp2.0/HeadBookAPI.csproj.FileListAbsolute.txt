@@ -1,0 +1,17 @@
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.csprojAssemblyReference.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.AssemblyInfo.cs
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\HeadBookAPI.deps.json
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\HeadBookAPI.runtimeconfig.json
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\HeadBookAPI.runtimeconfig.dev.json
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\HeadBookAPI.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\HeadBookAPI.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\Objects.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\Utilities.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\Objects.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\Utilities.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\bin\Debug\netcoreapp2.0\Utilities.dll.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.csproj.CopyComplete
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.pdb

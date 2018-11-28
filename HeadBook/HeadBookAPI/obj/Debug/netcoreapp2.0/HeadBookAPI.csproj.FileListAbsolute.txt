@@ -1,0 +1,4 @@
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.csprojAssemblyReference.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.AssemblyInfoInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBookAPI\obj\Debug\netcoreapp2.0\HeadBookAPI.AssemblyInfo.cs

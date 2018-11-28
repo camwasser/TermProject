@@ -1,0 +1,189 @@
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\HeadBook.dll.config
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\HeadBook.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\HeadBook.pdb
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csc.exe
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csc.exe.config
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csc.rsp
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csi.exe
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csi.exe.config
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\csi.rsp
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.AppContext.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Console.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.IO.Compression.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.IO.Pipes.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.AccessControl.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Claims.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Threading.Thread.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.ValueTuple.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\vbc.exe
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\vbc.exe.config
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\vbc.rsp
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\obj\Debug\HeadBook.csprojAssemblyReference.cache
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CoreCompileInputs.cache
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CopyComplete
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\obj\Debug\HeadBook.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\obj\Debug\HeadBook.pdb
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Objects.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Utilities.dll
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Objects.pdb
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Utilities.pdb
+c:\users\tuf73760\source\repos\HeadBook\HeadBook\bin\Utilities.dll.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\obj\Debug\HeadBook.csprojAssemblyReference.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CoreCompileInputs.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\obj\Debug\HeadBook.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\obj\Debug\HeadBook.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\HeadBook.dll.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\HeadBook.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\HeadBook.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csc.exe
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csc.exe.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csc.rsp
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csi.exe
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csi.exe.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\csi.rsp
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.AppContext.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Console.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Claims.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Threading.Thread.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\vbc.exe
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\vbc.exe.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\vbc.rsp
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Objects.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Utilities.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Objects.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Utilities.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\bin\Utilities.dll.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CopyComplete
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\HeadBook.dll.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\HeadBook.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\HeadBook.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csc.exe
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csc.exe.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csc.rsp
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csi.exe
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csi.exe.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\csi.rsp
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.AppContext.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Console.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.IO.Compression.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.IO.Pipes.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Claims.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Threading.Thread.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.ValueTuple.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\vbc.exe
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\vbc.exe.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\vbc.rsp
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Objects.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Utilities.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Objects.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Utilities.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\bin\Utilities.dll.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\obj\Debug\HeadBook.csprojAssemblyReference.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\obj\Debug\HeadBook.csproj.CopyComplete
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\obj\Debug\HeadBook.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\HeadBook\obj\Debug\HeadBook.pdb

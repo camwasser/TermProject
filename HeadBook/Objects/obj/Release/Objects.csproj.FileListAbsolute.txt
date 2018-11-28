@@ -1,0 +1,10 @@
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Release\Objects.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Release\Objects.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Release\Utilities.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Release\Utilities.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Release\Utilities.dll.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Release\Objects.csprojAssemblyReference.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Release\Objects.csproj.CoreCompileInputs.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Release\Objects.csproj.CopyComplete
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Release\Objects.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Release\Objects.pdb

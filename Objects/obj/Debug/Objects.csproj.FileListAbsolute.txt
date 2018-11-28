@@ -1,0 +1,30 @@
+c:\Users\tuf73760\source\repos\HeadBook\Objects\bin\Debug\Objects.dll
+c:\Users\tuf73760\source\repos\HeadBook\Objects\bin\Debug\Objects.pdb
+c:\Users\tuf73760\source\repos\HeadBook\Objects\bin\Debug\Utilities.dll
+c:\Users\tuf73760\source\repos\HeadBook\Objects\bin\Debug\Utilities.pdb
+c:\Users\tuf73760\source\repos\HeadBook\Objects\bin\Debug\Utilities.dll.config
+c:\Users\tuf73760\source\repos\HeadBook\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+c:\Users\tuf73760\source\repos\HeadBook\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+c:\Users\tuf73760\source\repos\HeadBook\Objects\obj\Debug\Objects.csproj.CopyComplete
+c:\Users\tuf73760\source\repos\HeadBook\Objects\obj\Debug\Objects.dll
+c:\Users\tuf73760\source\repos\HeadBook\Objects\obj\Debug\Objects.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Debug\Objects.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Debug\Objects.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Debug\Objects.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Debug\Objects.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Debug\Utilities.dll
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Debug\Utilities.pdb
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\bin\Debug\Utilities.dll.config
+C:\Users\tuf73760\Documents\HeadBook\HeadBook\Objects\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\bin\Debug\Objects.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\bin\Debug\Objects.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\bin\Debug\Utilities.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\bin\Debug\Utilities.pdb
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\bin\Debug\Utilities.dll.config
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.dll
+C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.pdb
