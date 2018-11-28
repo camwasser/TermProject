@@ -28,3 +28,13 @@ C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.csproj.Core
 C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.csproj.CopyComplete
 C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.dll
 C:\Users\camer\Documents\CIS 3342\HeadBook\Objects\obj\Debug\Objects.pdb
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\bin\Debug\Objects.dll
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\bin\Debug\Objects.pdb
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\bin\Debug\Utilities.dll
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\bin\Debug\Utilities.pdb
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\bin\Debug\Utilities.dll.config
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\obj\Debug\Objects.dll
+C:\Users\Brendan\source\repos\TermProject\TermProject\Objects\obj\Debug\Objects.pdb
