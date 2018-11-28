@@ -45,6 +45,7 @@
                 <div class="card-block">
                     <h2 class="text-xs-center">Login Settings</h2>
                     <asp:Label ID="lblError" runat="server" ForeColor="Red"></asp:Label>
+					<br />
                     <asp:Label ID="lblLoginSetting" runat="server" Text="Auto-Login"></asp:Label>
                     <asp:DropDownList ID="ddlAutoLogin" class="form-control" runat="server">
                         <asp:ListItem>Yes</asp:ListItem>
